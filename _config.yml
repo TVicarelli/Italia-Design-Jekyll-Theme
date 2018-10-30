@@ -1,16 +1,16 @@
-title:             "Italia Design Jekyll Theme - by G.Gentili 2018"
-description:       "A theme for Jekyll or GitHub Pages derived from Clean Blog by Start Bootstrap"
-baseurl:           "/"
-url:               "https://ggentili.github.io/Italia-Design-Jekyll-Theme/"
+title:             "Italia Design Jekyll Theme - by G.Gentili / T.Vicarelli 2018"
+description:       "Monitoraggio Agenda digitale dell'Umbria"
+baseurl:           "/Italia-Design-Jekyll-Theme/"
+url:               "https://tvicarelli.github.io/Italia-Design-Jekyll-Theme/"
 author:            "Redazione"
 
 # Header data
-header_parent_title: Nome ente sovraordinato
-header_parent_url: "http://entepubblico-sovraordinato.it"
+header_parent_title: Regione Umbria
+header_parent_url: "http://regione.umbria.it"
 header_language_selector: false
 header_logo: https://placehold.it/75x80?text=header_logo
-header_title: Nome ente o titolo del sito
-header_subtitle: sottotitolo
+header_title: Monitoraggio dell'Agenda Digitale dell'Umbria
+header_subtitle: Monitoraggio di Missioni, programmi e progetti
 search: true
 search_full_content: false
 mega_menu: true    # if true, require _data/menu.yml
@@ -18,18 +18,18 @@ mega_menu_accedi: false
 
 # Social profiles
 social_block: true
-social_username: "&commat;Account"    # short
-medium_username: abcuser
-facebook_username: abcuser
-twitter_username:  abcuser
-youtube_username: abcuser
+social_username: "&commat;AdUmbria"    # short
+medium_username: "adumbria"
+facebook_username: "AdUmbria"
+twitter_username:  "&commat;AdUmbria"
+youtube_username:
 linkedin_username:
-github_username: abcuser
+github_username:
 
 # Footer data
 footer_logo: https://placehold.it/75x80?text=footer_logo
-footer_title: Nome ente
-footer_subtitle: sottotitolo
+footer_title: Monitoraggio dell'Agenda Digitale dell'Umbria
+footer_subtitle: Monitoraggio di Missioni, programmi e progetti
 recapiti1: Recapiti
 recapiti2: Via autem reiciendis maiores
 recapiti3: autem reiciendis maiores
