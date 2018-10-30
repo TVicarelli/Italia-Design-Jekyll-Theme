@@ -5,7 +5,7 @@
   description: "Monitoraggio Agenda Digitale dell'Umbria"
   list:
     - title: "VISIONE COMPLESSIVA"
-    url: visione-complessiva
+      url: visione-complessiva
     - title: "MISSIONI"
       list:
         - title: Missione 1 - Capitale umano e uso di internet
