@@ -8,15 +8,15 @@
     url: visione-complessiva
 
   - title: "MISSIONI"
-    url: posts
+    url: pages
     dropdown:
         - title: Missione 1 - Capitale umano e uso di internet
-          url: pages/missione-persone
+          url: missione-persone
         - title: Missione 2 - Imprese ed integrazione delle tecnologie digitali
-          url: pages/missione-imprese
+          url: missione-imprese
         - title: Missione 3 - Territorio smart e qualità della vita
-          url: pages/missione-territorio
+          url: missione-territorio
         - title: Missione 4 - Servizi pubblici digitali
-          url: pages/missione-pa
+          url: missione-pa
         - title: Missione 5 - Connettività (BUL)
-          url: pages/missione-connettivita
+          url: missione-connettivita
