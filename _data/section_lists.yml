@@ -1,46 +1,20 @@
 - title: "Home"
   description: "Monitoraggio Agenda Digitale dell'Umbria"
 
-
-
-- title: "Voluptatibus esse corporis"
-  description: "Ducimus itaque veniam minima aut. Quam itaque a. Corrupti doloribus aperiam sed voluptas quas expedita earum harum hic."
+- title: "Monitoraggio Agenda Digitale dell'Umbria"
+  description: "Monitoraggio Agenda Digitale dell'Umbria"
   list:
-    - title: Autem quae numquam
-      url: /page-archive/
-    - title: "Sed et velit"
-      url: /page-archive/
-    - title: "Laboriosam porro dolor"
-      url: /page-archive/
-
-- title: "Sed et velit"
-  description: "Dignissimos recusandae et numquam sint qui saepe qui. Est blanditiis quibusdam voluptas alias enim. Quia sed odit voluptatem error iusto ex."
-  list:
-    - title: "Rem similique expedita"
-      url: /page-archive/
-    - title: "Autem reciciendis maiores"
-      url: /page-archive/
-    - title: Autem quae numquam
-      url: /page-archive/
-    - title: "Reiciendis maiores"
-      url: /categories/
-
-
-
-      - title: "Monitoraggio Agenda Digitale dell'Umbria"
-        description: "Monitoraggio Agenda Digitale dell'Umbria"
-        list:
-        - title: "VISIONE COMPLESSIVA"
-          url: visione-complessiva
-        - title: "MISSIONI"
-          list:
-          - title: Missione 1 - Capitale umano e uso di internet
+    - title: "VISIONE COMPLESSIVA"
+    url: visione-complessiva
+    - title: "MISSIONI"
+      list:
+        - title: Missione 1 - Capitale umano e uso di internet
             url: pages/missione-persone
-          - title: Missione 2 - Imprese ed integrazione delle tecnologie digitali
-              url: pages/missione-imprese
-          - title: Missione 3 - Territorio smart e qualità della vita
-              url: pages/missione-territorio
-          - title: Missione 4 - Servizi pubblici digitali
-              url: pages/missione-pa
-          - title: Missione 5 - Connettività (BUL)
-              url: pages/missione-connettivita
+        - title: Missione 2 - Imprese ed integrazione delle tecnologie digitali
+            url: pages/missione-imprese
+        - title: Missione 3 - Territorio smart e qualità della vita
+            url: pages/missione-territorio
+        - title: Missione 4 - Servizi pubblici digitali
+            url: pages/missione-pa
+        - title: Missione 5 - Connettività (BUL)
+            url: pages/missione-connettivita
